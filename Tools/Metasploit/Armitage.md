@@ -1,0 +1,2 @@
+- Requires Metasploit Framework db and backend service to be enabled in and running
+- 
